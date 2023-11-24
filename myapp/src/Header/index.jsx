@@ -5,6 +5,7 @@ const index = () => {
     <div>
       <h1>Header</h1>
       <p>salam</p>
+      <p>sadas</p>
       <p>salam</p>
       <ul>
         <li>Home</li>
