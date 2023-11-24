@@ -5,8 +5,8 @@ import Header from "./Header/index.jsx"
 function App() {
   return (
     <div className="App">
-      <Footer />
       <Header />
+      <Footer />
     </div>
   );
 }
